@@ -1,4 +1,4 @@
-FDU 2024 <Digital IC EDA>
+FDU 2024 Digital IC ED
 
 physical design project
 
